@@ -1,0 +1,22 @@
+{
+  "name": "planet-coaster-2-park-planner",
+  "displayName": "Planet Coaster 2 Park Planner",
+  "programType": "park-planner",
+  "repositoryContents": "Project documentation and artwork",
+  "downloadPage": "https://meteoric-rook-835.github.io/",
+  "descriptionSource": "Project owner",
+  "sections": [
+    "Park zones",
+    "Attraction groups",
+    "Project notes"
+  ],
+  "topics": [
+    "planet-coaster-2-park-planner",
+    "planet-coaster-2-tools",
+    "planet-coaster-2-menu",
+    "planet-coaster-2-settings",
+    "planet-coaster-2-configs",
+    "planet-coaster-2-park-zones",
+    "planet-coaster-2-attraction-groups"
+  ]
+}
